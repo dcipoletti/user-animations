@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: DIN_Light;
+    src: url(../fonts/DIN/DIN_Light.ttf);
+}
+@font-face {
+    font-family: DIN_Bold;
+    src: url(../fonts/DIN/DIN_Bold.ttf);
+}
+@font-face {
+    font-family: DIN_Alternate_Bold;
+    src: url(../fonts/DIN/DIN_Alternate_Bold.ttf);
+}
+@font-face {
+    font-family: DIN;
+    src: url(../fonts/DIN/DIN.ttf);
+}
+@font-face {
+	font-family: Larabie;
+	src: url(../fonts/Larabie/larabiefont_rg.ttf);
+}
+
+/* Defaults */
+html, body {
+	margin: 0 auto;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	font-family: DIN;
+	font-size: 12px;
+	color: #757575;
+	position: fixed;
+}
+
+/* Global text sizes */
+.super_text {
+	font-size: 2.5em;
+}
+.large_text {
+	font-size: 2.0em;
+	letter-spacing: 0.15em;
+}
+.semi_large_text {
+	font-size: 1.5em;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+}
+	.semi_large_text_reg {
+		font-size: 1.3em;
+	}
+.medium_text {
+	font-size: 1.2em;
+	letter-spacing: 0.15em;
+}
+	.medium_text_reg {
+		font-size: 1.2em;
+	}
+	.medium_text_alt {
+		font-size: 1.0em;
+		letter-spacing: 0.15em;
+		text-transform: uppercase;
+	}
+.small_text {
+	line-height:0.80;
+	letter-spacing: 0.10em;
+}
+
+/* Global text types */
+.button_text {
+	font-size: 1.0em;
+	letter-spacing: 0.18em;
+	text-decoration: none;
+}
+
+/* Global fonts */
+.din_light {
+	font-family: DIN_Light;
+	text-transform: uppercase;
+}
+.din_alternate_bold {
+	font-family: DIN_Alternate_Bold;
+}
+.din_bold {
+	font-family: DIN_Bold;
+}
+.larabie_reg {
+	font-family: Larabie;
+}

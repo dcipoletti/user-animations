@@ -1,0 +1,237 @@
+{"episode":[
+	{
+		"image":"../images/series/breaking_bad/episode/s1e1.jpg",
+		"duration":"42 mins",
+		"eid":"S1 E1",
+		"etitle":"Seven Thirty-Seven",
+		"edescription":"Walt and Jesse are vividly reminded of Tuco&lsquo;s volatile nature, and try to figure out a way out of their business partnership."
+	},{
+		"image":"../images/series/breaking_bad/episode/s1e2.jpg",
+		"duration":"42 mins",
+		"eid":"S1 E2",
+		"etitle":"Bit By A Dead Bee",
+		"edescription":"Walt and Jesse cover their tracks, but as a result, both of their financial situations suffer."
+	},{
+		"image":"../images/series/breaking_bad/episode/s2e3.jpg",
+		"duration":"42 mins",
+		"eid":"S2 E3",
+		"etitle":"Breakage",
+		"edescription":"Tensions and bills mount at the White household. Hank makes progress at work, but struggles with some residual."
+	},{
+		"image":"../images/series/breaking_bad/episode/s2e4.jpg",
+		"duration":"42 mins",
+		"eid":"S2 E4",
+		"etitle":"Negro Y Azul",
+		"edescription":"Rumors fly about Jesse&lsquo;s recent actions as he and Walt discuss expanding their business into new territories."
+	},{
+		"image":"../images/series/breaking_bad/episode/s2e5.jpg",
+		"duration":"42 mins",
+		"eid":"S2 E5",
+		"etitle":"4 Days Out",
+		"edescription":"After Walt undergoes a PET-CT scan, he and his family wait for news about his cancer treatment progress."
+	},{
+		"image":"../images/series/breaking_bad/episode/s2e6.jpg",
+		"duration":"42 mins",
+		"eid":"S2 E6",
+		"etitle":"Over",
+		"edescription":"Walt and Hank get into a heated argument at a party the Whites host to thank friends and family for their support."
+	}],
+"clip":[
+	{
+		"image":"../images/series/breaking_bad/clip/talking_bad_1.jpg",
+		"duration":"4:10",
+		"eid":"",
+		"etitle":"Talking Bad",
+		"edescription":"Vince Gillian Talks About Season 5 Episode 3"
+	},{
+		"image":"../images/series/breaking_bad/clip/talking_bad_2.jpg",
+		"duration":"1:32",
+		"eid":"",
+		"etitle":"Talking Bad",
+		"edescription":"Aaron Paul&lsquo;s Bitch Phase Is Getting Old"
+	},{
+		"image":"../images/series/breaking_bad/clip/talking_bad_3.jpg",
+		"duration":"2:15",
+		"eid":"",
+		"etitle":"Talking Bad",
+		"edescription":"Adam Scott talks about binge watching for 53 hours"
+	},{
+		"image":"../images/series/breaking_bad/clip/talking_bad_4.jpg",
+		"duration":"1:32",
+		"eid":"",
+		"etitle":"Talking Bad",
+		"edescription":"Bill Hader Wants To Be Hank"
+	},{
+		"image":"../images/series/breaking_bad/clip/talking_bad_5.jpg",
+		"duration":"2:15",
+		"eid":"",
+		"etitle":"Talking Bad",
+		"edescription":"Adam Scott talks about binge watching for 53 hours"
+	},{
+		"image":"../images/series/breaking_bad/clip/talking_bad_6.jpg",
+		"duration":"1:32",
+		"eid":"",
+		"etitle":"Talking Bad",
+		"edescription":"Bill Hader Wants To Be Hank"
+	}],
+"similar":[
+	{
+		"image":"../images/series/breaking_bad/similar/the_walking_dead.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"The Walking Dead",
+		"edescription":"5 Seasons, 55 Episodes"
+	},{
+		"image":"../images/series/breaking_bad/similar/mad_men.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Mad Men",
+		"edescription":"6 Seasons, 68 Episodes"
+	},{
+		"image":"../images/series/breaking_bad/similar/the_strain.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"The Strain",
+		"edescription":"1 Season, 18 Episodes"
+	},{
+		"image":"../images/series/breaking_bad/similar/hell_on_wheels.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Hell On Wheels",
+		"edescription":"4 Seasons, 44 Episodes"
+	},{
+		"image":"../images/series/breaking_bad/similar/sons_of_anarchy.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Sons of Anarchy",
+		"edescription":"6 Seasons, 66 Episodes"
+	},{
+		"image":"../images/series/breaking_bad/similar/game_of_thrones.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Game Of Thrones",
+		"edescription":"4 Seasons, 54 Episodes"
+	}],
+"singlestack":[
+	{
+		"image":"../images/stack/series_veep.jpg",
+		"duration":"28:33",
+		"eid":"S2 E4",
+		"etitle":"Veep",
+		"edescription":"Get Off My Jump"
+	},{
+		"image":"../images/stack/series_house_of_cards.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"House of Cards",
+		"edescription":"2 Seasons, 20 Episodes"
+	},{
+		"image":"../images/stack/series_louie.jpg",
+		"duration":"48:10",
+		"eid":"S4 E8",
+		"etitle":"Louie",
+		"edescription":"Jeopardy"
+	},{
+		"image":"../images/stack/series_glee.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Glee",
+		"edescription":"6 Seasons, 100 Episodes"
+	},{
+		"image":"../images/stack/series_jane_the_virgin.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Jane The Virgin",
+		"edescription":"1 Season, 12 Episodes"
+	},{
+		"image":"../images/stack/series_empire.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Empire",
+		"edescription":"1 Season, 12 Episodes"
+	},{
+		"image":"../images/stack/series_the_office.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"The Office",
+		"edescription":"9 Seasons, 201 Episodes"
+	},{
+		"image":"../images/stack/series_the_blacklist.jpg",
+		"duration":"28:33",
+		"eid":"S3 E2",
+		"etitle":"The Blacklist",
+		"edescription":"James Is A Criminal"
+	},{
+		"image":"../images/stack/series_transparent.jpg",
+		"duration":"28:33",
+		"eid":"S1 E6",
+		"etitle":"Transparent",
+		"edescription":"The Wilderness"
+	},{
+		"image":"../images/stack/series_breaking_bad.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Breaking Bad",
+		"edescription":"6 Seasons, 66 Episodes"
+	},{
+		"image":"../images/stack/series_veep.jpg",
+		"duration":"28:33",
+		"eid":"S2 E4",
+		"etitle":"Veep",
+		"edescription":"Get Off My Jump"
+	},{
+		"image":"../images/stack/series_house_of_cards.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"House of Cards",
+		"edescription":"2 Seasons, 20 Episodes"
+	},{
+		"image":"../images/stack/series_louie.jpg",
+		"duration":"48:10",
+		"eid":"S4 E8",
+		"etitle":"Louie",
+		"edescription":"Jeopardy"
+	},{
+		"image":"../images/stack/series_glee.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Glee",
+		"edescription":"6 Seasons, 100 Episodes"
+	},{
+		"image":"../images/stack/series_jane_the_virgin.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Jane The Virgin",
+		"edescription":"1 Season, 12 Episodes"
+	},{
+		"image":"../images/stack/series_empire.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Empire",
+		"edescription":"1 Season, 12 Episodes"
+	},{
+		"image":"../images/stack/series_the_office.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"The Office",
+		"edescription":"9 Seasons, 201 Episodes"
+	},{
+		"image":"../images/stack/series_the_blacklist.jpg",
+		"duration":"28:33",
+		"eid":"S3 E2",
+		"etitle":"The Blacklist",
+		"edescription":"James Is A Criminal"
+	},{
+		"image":"../images/stack/series_transparent.jpg",
+		"duration":"28:33",
+		"eid":"S1 E6",
+		"etitle":"Transparent",
+		"edescription":"The Wilderness"
+	},{
+		"image":"../images/stack/series_breaking_bad.jpg",
+		"duration":"",
+		"eid":"",
+		"etitle":"Breaking Bad",
+		"edescription":"6 Seasons, 66 Episodes"
+	}]
+}
