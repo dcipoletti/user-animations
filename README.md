@@ -10,5 +10,7 @@ Note: jQuery and Hammer.js are present for testing purposes only (prototyping sw
 This repo is leveraging bower (will move to yarn shortly!)
 
 I left bower_components intact in this instance because bower is mostly deprecated. 
+
 After pulling the repo, run `python -m SimpleHTTPServer` to run the static code.
+
 Navigate to `http://127.0.0.1:8000/single_stack_animation/` to view it!
